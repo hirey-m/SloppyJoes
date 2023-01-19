@@ -32,6 +32,20 @@ npm run start
 * MongoDB - NoSQL database
 * Passport - User authentication and authorization
 
+## Screenshots
+
+### User Interface
+https://user-images.githubusercontent.com/114593746/213329715-82362b78-6d97-4d89-b71d-5f8972ddb68d.mov
+
+### Adding items to a Cart
+https://user-images.githubusercontent.com/114593746/213330230-550bcfe7-e195-469a-b8ee-5d59a5c98a4f.mov
+
+### Placing an Order
+https://user-images.githubusercontent.com/114593746/213331540-94fdc93a-4681-445e-a21a-c4d8169da906.mov
+
+### Live Order Tracking
+https://user-images.githubusercontent.com/114593746/213331856-639b1fa0-f478-4047-8f78-79f0f64b96ae.mov
+
 ## Contributing
 If you want to contribute to this project, please follow the CONTRIBUTING.md guidelines.
 
